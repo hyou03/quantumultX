@@ -1,0 +1,2 @@
+# quantumultX
+自用
